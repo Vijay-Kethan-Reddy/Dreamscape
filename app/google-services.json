@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727183666292",
+    "project_id": "dreamscape-2025",
+    "storage_bucket": "dreamscape-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727183666292:android:560c01eee7cfd81ff9b521",
+        "android_client_info": {
+          "package_name": "com.example.dreamscape"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLi6i0T20YA5JM_TI4hhWiGpbIEOwzauw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
